@@ -5,5 +5,5 @@ class App extends React.Component {
     return (<p>Sistema Solar</p>);
   }
 }
-
+// so pro ccommit inicial
 export default App;
