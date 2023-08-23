@@ -38,10 +38,6 @@ Arquivos como .trybe e trybe.yml
 
 # Requisitos
 
-:warning: **PULL REQUESTS COM ISSUES DE LINTER NÃO SERÃO AVALIADAS.** :warning:
-
-:warning: **As imagens são meramente ilustrativas para visualizar o fluxo da aplicação, os nomes devem seguir os requisitos e não as imagens.** :warning:
-
 ## 1. Crie um componente chamado `Header`
 
 <details>
